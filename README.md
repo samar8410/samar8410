@@ -1,16 +1,16 @@
 💫 Hi 👋, I'm Samar Singh Gill
 
-**Software Developer || MERN Stack Developer || Aspiring Data Analyst**
+- **Software Developer || MERN Stack Developer || Aspiring Data Analyst**
 
-Email Me 👉 ✉️ samarsingh3234@gmail.com for collaboration, freelance projects, or tech discussions.
+- Email Me 👉 ✉️ samarsingh3234@gmail.com for collaboration, freelance projects, or tech discussions.
 
--🔭 **I’m currently working on: Enhancing TradeHive – Stock Portfolio Management Platform with advanced analytics & performance tracking features.**
--🌱 **I’m currently learning:** Advanced Backend Development, System Design & Data Analytics
--👯 **I’m looking to collaborate on:** Full-Stack Web Applications & Real-Time Data Projects
--🤔 **I’m looking for help with:** Scaling MERN applications & improving system architecture
--💬 **Ask me about:** React.js, Node.js, MongoDB, REST APIs, Portfolio Projects
--📫 **How to reach me:** samarsingh3234@gmail.com | **LinkedIn:** www.linkedin.com/in/samar-gill
--⚡ **Fun fact:** I love building products that solve real-world problems 🚀
+- 🔭 **I’m currently working on: Enhancing TradeHive – Stock Portfolio Management Platform with advanced analytics & performance tracking features.**
+- 🌱 **I’m currently learning:** Advanced Backend Development, System Design & Data Analytics
+- 👯 **I’m looking to collaborate on:** Full-Stack Web Applications & Real-Time Data Projects
+- 🤔 **I’m looking for help with:** Scaling MERN applications & improving system architecture
+- 💬 **Ask me about:** React.js, Node.js, MongoDB, REST APIs, Portfolio Projects
+- 📫 **How to reach me:** samarsingh3234@gmail.com | **LinkedIn:** www.linkedin.com/in/samar-gill
+- ⚡ **Fun fact:** I love building products that solve real-world problems 🚀
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/samar.gill__) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/samar-gill) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@@aidevloc) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:samarsingh3234@gmail.com) 
